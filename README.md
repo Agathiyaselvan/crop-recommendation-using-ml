@@ -1,5 +1,6 @@
 # crop-recommendation-using-ml
 this is a repository for crop recommendation using ml
+___________________________________________________________________________________________________________________________________________________________________________________________
 Irrigreat
 Problem Definition
 Productivity needs to be increased so that farmers can get more pay from the same piece of land without degrading soil.
